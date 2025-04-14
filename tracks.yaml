@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:savioke/python_qt_binding-release.git
 tracks:
   noetic:
     actions:
